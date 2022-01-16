@@ -41,7 +41,10 @@ By the end, you'll be ready to
 
 * **Date Completed**: Oct 11, 2021
 
-## Notes, Assignments and Lab assignments
+## Certificate
+![](mlops-specialization-certificate.png)
+
+## Notes, Quizzes and Lab assignments
 
 ### Course 1: Introduction to Machine Learning in Production
 

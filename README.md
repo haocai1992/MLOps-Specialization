@@ -237,7 +237,6 @@ By the end, you'll be ready to
     - [Model Decay](https://github.com/haocai1992/MLOps-Specialization/blob/main/C4-Deploying-Machine-Learning-Models-in-Production/Week%204:%20Model%20Monitoring%20and%20Logging/Quiz%202-Model%20Decay.pdf)
     - [GDPR and Privacy](https://github.com/haocai1992/MLOps-Specialization/blob/main/C4-Deploying-Machine-Learning-Models-in-Production/Week%204:%20Model%20Monitoring%20and%20Logging/Quiz%203-GDPR%20and%20Privacy.pdf)
 
----
 ## Disclaimer
 - Copyright of all materials in this repository belongs to DeepLearning.AI, and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 - My quiz and assignment solutions are for reference only. Please do not copy any part of the code/answer directly.
